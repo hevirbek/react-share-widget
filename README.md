@@ -5,7 +5,7 @@
 ## Installation
 
 ``` bash
-npm i react-social-media-embed
+npm i react-share-widget
 ```
 
 ## Usage
