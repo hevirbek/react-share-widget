@@ -2,7 +2,7 @@
 
 =======
 
-![Alt Text][./demo.gif]
+![Alt Text](./demo.gif)
 
 ## Installation
 
