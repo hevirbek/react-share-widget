@@ -2,8 +2,6 @@
 
 =======
 
-![Alt Text](./demo.gif)
-
 ## Installation
 
 ``` bash
@@ -35,3 +33,7 @@ import { WhatsappButton } from 'react-share-widget';
   <WhatsappButton phone="+905555555555" text="I want to buy your product!" />
 </div>
 ```
+
+## Demo
+
+![Alt Text](./demo.gif)
