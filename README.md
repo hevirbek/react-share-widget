@@ -2,6 +2,8 @@
 
 =======
 
+![Alt Text][./demo.gif]
+
 ## Installation
 
 ``` bash
